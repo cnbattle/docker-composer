@@ -18,3 +18,10 @@ step3. copy `composer.sh` to `/usr/bin/composer`
 sudo cp composer.sh /usr/bin/composer
 ```
 Success enjoy it.
+
+## China Composer Full Mirror
+
+- aliyun：https://mirrors.aliyun.com/composer/
+- tencent cloud：https://mirrors.cloud.tencent.com/composer/
+- huawei cloud：https://mirrors.huaweicloud.com/repository/php/
+- cnpkg： https://php.cnpkg.org/
